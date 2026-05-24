@@ -1,4 +1,4 @@
-Exp 1:
+Exp 1:red black
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -156,7 +156,7 @@ int main(){
 }
 
 
-Exp 2:
+Exp 2: fractional knapsack
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -215,7 +215,7 @@ int main() {
     return 0;
 }
 
-Exp 3:
+Exp 3: job squencing
 
 #include <stdio.h>
 
@@ -290,7 +290,7 @@ int main()
     return 0;
 }
 
-Exp 4:
+Exp 4:currency exchange
 
 #include <stdio.h>
 #include <limits.h>
@@ -342,7 +342,7 @@ int main() {
 }
 
 
-Exp 5:
+Exp 5: matrix chain multiplication
 
 #include <stdio.h>
 #include <limits.h>
@@ -384,7 +384,7 @@ int main() {
     return 0;
 }
 
-Exp 6:
+Exp 6: Rabin Karp
 
 #include <stdio.h>
 #include <string.h>
@@ -451,7 +451,7 @@ int main() {
     return 0;
 }
 
-Exp 7:
+Exp 7: LCS
 
 #include <stdio.h>
 #include <string.h>
@@ -518,7 +518,7 @@ int main()
 }
 
 
-Exp 8:
+Exp 8: cea
 
 #include <stdio.h>
 
